@@ -2,7 +2,8 @@
 
 ## Important Notice (Installing)
 Downloading the Zip of the website is not recommended as it corrupts the video files, 
-instead use the git clone command or "git clone https://github.com/tanyasinha7117-cyber/The-Local-Bazar.git" in cmd 
+instead use the git clone command 
+or "git clone https://github.com/tanyasinha7117-cyber/The-Local-Bazar.git" in cmd 
 
 ## How can I edit this code?
 
