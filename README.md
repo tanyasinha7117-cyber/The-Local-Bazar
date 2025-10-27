@@ -1,7 +1,15 @@
 # Welcome to My New project
 
 ## Important Notice (Installing)
+
 Downloading the Zip of the website is not recommended as it corrupts the video files, instead use the git clone command as shown down below 
+
+## Requirements 
+
+1. Downlond Git from :- https://git-scm.com/ (If git is not installed in your pc the GitHub file wouldn't be cloned)
+   
+2. Downlaod Node.js :- https://nodejs.org/en/download (If Node.js is not installed in your pc the npm command line won't work)
+
 
 ## How can I edit this code?
 
@@ -25,7 +33,7 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
+``` 
 
 **Edit a file directly in GitHub**
 
