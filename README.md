@@ -1,5 +1,3 @@
-![Project Logo](https://github.com/tanyasinha7117-cyber/The-Local-Bazar/blob/main/public/favicon.ico)
-
 # Welcome to My New project
 
 ## How can I edit this code?
