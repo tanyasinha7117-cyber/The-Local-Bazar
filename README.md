@@ -1,4 +1,16 @@
-## Project info
+# Welcome to My New project
+
+## How can I edit this code?
+
+**Use your preferred IDE**
+
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+Follow these steps:
+
+```sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
@@ -35,4 +47,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
