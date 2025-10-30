@@ -13,7 +13,7 @@ Downloading the Zip of the website is not recommended as it corrupts the video f
 
 ## How can I edit this code?
 
-**Use your preferred IDE**
+*Use your preferred IDE*
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
@@ -21,7 +21,7 @@ The only requirement is having Node.js & npm installed - [install with nvm](http
 
 Follow these steps:
 
-```sh
+sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
@@ -31,17 +31,23 @@ cd <YOUR_PROJECT_NAME>
 # Step 3: Install the necessary dependencies.
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-``` 
+# Step 4: Download git lfs
+git lfs install
 
-**Edit a file directly in GitHub**
+# Step 5: Pull Video files
+git lfs pull
+
+# Step 6: Start the development server with auto-reloading and an instant preview.
+npm run dev
+ 
+
+*Edit a file directly in GitHub*
 
 - Navigate to the desired file(s).
 - Click the "Edit" button (pencil icon) at the top right of the file view.
 - Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
+*Use GitHub Codespaces*
 
 - Navigate to the main page of your repository.
 - Click on the "Code" button (green button) near the top right.
